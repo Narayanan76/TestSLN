@@ -1,0 +1,10 @@
+C:\Temp\DevOpsTest\DevOpsTest\DevOpsTest\bin\Debug\DevOpsTest.exe.config
+C:\Temp\DevOpsTest\DevOpsTest\DevOpsTest\bin\Debug\DevOpsTest.exe
+C:\Temp\DevOpsTest\DevOpsTest\DevOpsTest\bin\Debug\DevOpsTest.pdb
+C:\Temp\DevOpsTest\DevOpsTest\DevOpsTest\bin\Debug\DevOpsTest.xml
+C:\Temp\DevOpsTest\DevOpsTest\DevOpsTest\obj\Debug\DevOpsTest.Form1.resources
+C:\Temp\DevOpsTest\DevOpsTest\DevOpsTest\obj\Debug\DevOpsTest.Resources.resources
+C:\Temp\DevOpsTest\DevOpsTest\DevOpsTest\obj\Debug\DevOpsTest.vbproj.GenerateResource.Cache
+C:\Temp\DevOpsTest\DevOpsTest\DevOpsTest\obj\Debug\DevOpsTest.exe
+C:\Temp\DevOpsTest\DevOpsTest\DevOpsTest\obj\Debug\DevOpsTest.xml
+C:\Temp\DevOpsTest\DevOpsTest\DevOpsTest\obj\Debug\DevOpsTest.pdb
